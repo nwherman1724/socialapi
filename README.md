@@ -1,42 +1,32 @@
-# socialapi
+# Social Network api
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## :blue_book: Description
 
-  test Content
+This app is the back-end api for a social network. It utilizes Mongoose, Express.js, and Node.js. THis is a CRUD application. The routes can be check on Insomnia.
 
   ## :bookmark_tabs: Table of Contents
 
-  - [Description](#description)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contribution](#contribution)
-  - [Tests](#tests)
-  - [Questions](#questions)
+  - [Description](#Description)
+  - [License](#License)
+  - [Contribution](#Contribution)
+  - [Tests](#Tests)
+  - [Questions](#Questions)
 
-  ## :hammer_and_wrench: Installation
-  test Content
-
-  ## :zap: Usage
-  test Content
       
   ## :lock: License
   
   This project is cover under the MIT License.
 
   ## :handshake: Contribution
-  test Content
-
-  ## :chart_with_upwards_trend: Tests
-  test Content
+ See contributor covenant: https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md
   
   ## :question: Questions
-  Github Username: test Content
+  Github Username: nwherman1724
 
-  Github Link: https://github.com/test Content
-  
-  Email Address: test Content
-  
-  Email me if you have additional questions.
+Github Link: https://github.com/nwherman1724
+
+Email Address: nwherman1724@gmail.com
+
+Email me if you have additional questions.
