@@ -4,7 +4,7 @@
 
   ## :blue_book: Description
 
-This app is the back-end api for a social network. It utilizes Mongoose, Express.js, and Node.js. THis is a CRUD application. The routes can be check on Insomnia.
+This app is the back-end api for a social network. It utilizes Mongoose, Express.js, and Node.js. This is a CRUD application. The routes can be check on Insomnia.
 
   ## :bookmark_tabs: Table of Contents
 
